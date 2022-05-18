@@ -1,0 +1,15 @@
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.exe
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.deps.json
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.runtimeconfig.json
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.dll
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\TemplateMethodPattern\bin\Debug\net6.0\TemplateMethodPattern.pdb
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.csproj.AssemblyReference.cache
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.AssemblyInfoInputs.cache
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.AssemblyInfo.cs
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.dll
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\refint\TemplateMethodPattern.dll
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.pdb
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\TemplateMethodPattern.genruntimeconfig.cache
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\TemplateMethodPattern\obj\Debug\net6.0\ref\TemplateMethodPattern.dll

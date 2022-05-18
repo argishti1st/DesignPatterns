@@ -1,0 +1,15 @@
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\IteratorAndCompositePatterns\obj\Debug\net6.0\IteratorAndCompositPatterns.csproj.AssemblyReference.cache
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\IteratorAndCompositePatterns\obj\Debug\net6.0\IteratorAndCompositPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\IteratorAndCompositePatterns\obj\Debug\net6.0\IteratorAndCompositPatterns.AssemblyInfoInputs.cache
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\IteratorAndCompositePatterns\obj\Debug\net6.0\IteratorAndCompositPatterns.AssemblyInfo.cs
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\IteratorAndCompositePatterns\obj\Debug\net6.0\IteratorAndCompositPatterns.csproj.CoreCompileInputs.cache
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\IteratorAndCompositePatterns\bin\Debug\net6.0\IteratorAndCompositPatterns.exe
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\IteratorAndCompositePatterns\bin\Debug\net6.0\IteratorAndCompositPatterns.deps.json
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\IteratorAndCompositePatterns\bin\Debug\net6.0\IteratorAndCompositPatterns.runtimeconfig.json
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\IteratorAndCompositePatterns\bin\Debug\net6.0\IteratorAndCompositPatterns.dll
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\IteratorAndCompositePatterns\bin\Debug\net6.0\IteratorAndCompositPatterns.pdb
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\IteratorAndCompositePatterns\obj\Debug\net6.0\IteratorAndCompositPatterns.dll
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\IteratorAndCompositePatterns\obj\Debug\net6.0\refint\IteratorAndCompositPatterns.dll
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\IteratorAndCompositePatterns\obj\Debug\net6.0\IteratorAndCompositPatterns.pdb
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\IteratorAndCompositePatterns\obj\Debug\net6.0\IteratorAndCompositPatterns.genruntimeconfig.cache
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\IteratorAndCompositePatterns\obj\Debug\net6.0\ref\IteratorAndCompositPatterns.dll
