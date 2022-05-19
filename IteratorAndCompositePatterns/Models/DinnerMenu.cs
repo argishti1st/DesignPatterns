@@ -1,6 +1,9 @@
+using System.Collections;
+using IteratorAndCompositePatterns.Contracts;
+
 namespace IteratorAndCompositePatterns.Models
 {
-    public class DinnerMenu 
+        public class DinnerMenu : IMenu<MenuItem>
     {
         private static int MAX_ITEMS = 6;
         int numberOfItems = 0;
@@ -9,7 +12,7 @@ namespace IteratorAndCompositePatterns.Models
         {
             MenuItems = new MenuItem[MAX_ITEMS];
             addItem("Vegetarian BLT",
-            "(Fakin') Bacon with lettuce & tomato on whole wheat", true, 2.99);
+            "Bacon with lettuce & tomato on whole wheat", true, 2.99);
             addItem("BLT",
             "Bacon with lettuce & tomato on whole wheat", false, 2.99);
             addItem("Soup of the day",
@@ -34,9 +37,14 @@ namespace IteratorAndCompositePatterns.Models
 
         public MenuItem[] MenuItems { get; set; }
 
-        public IEnumerator<MenuItem> CreateEnumerable()
+        public IEnumerator<MenuItem> CreateEnumeratorGeneric()
         {
             return new DinnerMenuEnumerable(MenuItems);
+        }
+
+        public IEnumerator CreateEnumerator()
+        {
+            throw new NotImplementedException();
         }
     }
 }

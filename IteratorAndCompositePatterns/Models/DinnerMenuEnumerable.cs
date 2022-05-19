@@ -2,7 +2,7 @@ using System.Collections;
 
 namespace IteratorAndCompositePatterns.Models
 {
-    public class DinnerMenuEnumerable : IEnumerable<MenuItem>, IEnumerator<MenuItem>
+    public class DinnerMenuEnumerable : IEnumerator<MenuItem>
     {
         MenuItem[] _items;
         int position = 0;
@@ -11,7 +11,7 @@ namespace IteratorAndCompositePatterns.Models
             _items = items;
         }
 
-        public MenuItem Current
+        public object Current
         {
             get
             {
@@ -21,14 +21,22 @@ namespace IteratorAndCompositePatterns.Models
             }
         }
 
-        object IEnumerator.Current => throw new NotImplementedException();
+        MenuItem IEnumerator<MenuItem>.Current
+        {
+            get
+            {
+                MenuItem menuItem = _items[position];
+                position = position + 1;
+                return menuItem;
+            }
+        }
 
         public void Dispose()
         {
             throw new NotImplementedException();
         }
 
-        public IEnumerator<MenuItem> GetEnumerator()
+        public IEnumerator GetEnumerator()
         {
             throw new NotImplementedException();
         }
@@ -39,15 +47,10 @@ namespace IteratorAndCompositePatterns.Models
                 return false;
                 } else {
                 return true;
-}
+                }
         }
 
         public void Reset()
-        {
-            throw new NotImplementedException();
-        }
-
-        IEnumerator IEnumerable.GetEnumerator()
         {
             throw new NotImplementedException();
         }

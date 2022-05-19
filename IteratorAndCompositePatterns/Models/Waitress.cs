@@ -1,33 +1,32 @@
 using System.Collections;
+using IteratorAndCompositePatterns.Contracts;
 
 namespace IteratorAndCompositePatterns.Models
 {
     public class Waitress
     {
-        private readonly DinnerMenu _dinnerMenu;
+        MenuComponent _allMenus;
 
-        public Waitress(DinnerMenu dinnerMenu)
+        public Waitress(MenuComponent allMenus)
         {
-            _dinnerMenu = dinnerMenu;
+            _allMenus = allMenus;
         }
 
         public void PrintMenu()
         {
-            var enumerable = _dinnerMenu.CreateEnumerable();
-
-            PrintMenu<MenuItem>(enumerable);
+            _allMenus.Print();
         }
 
-        public void PrintMenu<T>(IEnumerator<T> enumerable)
-        {
-            while(enumerable.MoveNext()){
-                var item = enumerable.Current;
-                var menuItem = item as MenuItem;
-                if (menuItem != null)
-                {
-                    Console.WriteLine($"Name: {menuItem.Name}, description: {menuItem.Desc}, price: {menuItem.Price}");
-                }
-            }
-        }
+        // public void PrintMenu(IEnumerator enumerator)
+        // {
+        //     while(enumerator.MoveNext()){
+        //         var item = enumerator.Current;
+        //         var menuItem = item as MenuItem;
+        //         if (menuItem != null)
+        //         {
+        //             Console.WriteLine($"Name: {menuItem.Name}, description: {menuItem.Desc}, price: {menuItem.Price}");
+        //         }
+        //     }
+        // }
     }
 }
