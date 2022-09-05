@@ -1,0 +1,15 @@
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\StatePattern\bin\Debug\net6.0\StatePattern.exe
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\StatePattern\bin\Debug\net6.0\StatePattern.deps.json
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\StatePattern\bin\Debug\net6.0\StatePattern.runtimeconfig.json
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\StatePattern\bin\Debug\net6.0\StatePattern.dll
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\StatePattern\bin\Debug\net6.0\StatePattern.pdb
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.csproj.AssemblyReference.cache
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.AssemblyInfoInputs.cache
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.AssemblyInfo.cs
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.dll
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\StatePattern\obj\Debug\net6.0\refint\StatePattern.dll
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.pdb
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\StatePattern\obj\Debug\net6.0\StatePattern.genruntimeconfig.cache
+C:\Users\ahambaryan\Desktop\Argishti\DesignPatterns\StatePattern\obj\Debug\net6.0\ref\StatePattern.dll
